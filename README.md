@@ -7,7 +7,7 @@
 
 <h2>Looking forward to complete the next course to improve my skills: </h2>
 
-<ul>JavaScript Algorithms and Data Structures Masterclass <a href="https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/">Link</a></ul>
+<ul>JavaScript Algorithms and Data Structures Masterclass <a href="https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/">Take a look</a></ul>
 
 
 
