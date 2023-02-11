@@ -7,19 +7,6 @@
 <a target="_blank" href="https://udemy-certificate.s3.amazonaws.com/image/UC-a7a2691d-3451-4633-8663-6580b2e83f77.jpg?v=1676033322000">
   <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-a7a2691d-3451-4633-8663-6580b2e83f77.jpg?v=1676033322000" alt="">
 </a>
-<style>
-img {
-  border: 1px solid #ddd; /* Gray border */
-  border-radius: 4px;  /* Rounded border */
-  padding: 5px; /* Some padding */
-  width: 150px; /* Set a small width */
-}
-
-/* Add a hover effect (blue shadow) */
-img:hover {
-  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
-}
-</style>
 
 <a href="https://www.udemy.com/certificate/UC-a7a2691d-3451-4633-8663-6580b2e83f77/">Certificate source link</a>
 
