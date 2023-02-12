@@ -29,6 +29,9 @@
     <td align='center' width="190">
          <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
     </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60">
+    </td>
 </tr>
 </table>
 <h2>Completed courses</h2>
