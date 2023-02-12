@@ -1,5 +1,36 @@
 <h1>$\mathfrak{\color{yellow}Learning  \space web  \space development.}$</h1>
 <img src="testsvg.svg">
+
+
+<h2 align='center'><i>Languages and Tools</i></h2>
+
+<table width="100">
+<tr>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
+    </td>
+     <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg">
+    </td>
+</tr>
+<tr>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+    </td>
+     <td align='center' width="190">
+         <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+    </td>
+    <td align='center' width="190">
+         <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
+    </td>
+</tr>
+</table>
 <h2>Completed courses</h2>
 
 
