@@ -37,7 +37,7 @@
         dominant-baseline='middle'
         x='50%' text-anchor='middle'>
         <textPath xlink:href='#path1'>
-            I am learning web development.
+            I am a junior web developer.
         </textPath>
     </text>
 </svg>
