@@ -1,5 +1,5 @@
 <h1>$\mathfrak{\color{yellow}Web Development.}$</h1>
-<img src="testsvg.svg">
+
 
 
 <h2 align='center'><i>Languages and Tools</i></h2>
