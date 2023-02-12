@@ -1,4 +1,4 @@
-<h1>Learning web development.</h1>
+<h1>$${\color{Learning web development.}Red}$$</h1>
 
 <h2>Completed courses</h2>
 
