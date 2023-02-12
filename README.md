@@ -1,4 +1,4 @@
-<h1>${\color{Red}Learning  \space web  \space development.}$</h1>
+<h1>${\color{yellow}Learning  \space web  \space development.}$</h1>
 
 <h2>Completed courses</h2>
 
