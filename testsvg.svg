@@ -6,7 +6,7 @@
 
 <style>
 @font-face {
-  font-family: 'Edu VIC WA NT Beginner';
+  font-family: 'Helvetica';
   font-style: normal;
   font-weight: 400;
   font-display: fallback;
@@ -20,7 +20,7 @@
         dur='5000ms' fill='remove'
         values='m0,25 h0 ; m0,25 h800 ; m0,25 h800 ; m0,25 h0' keyTimes='0;0.8;0.8;1' />
     </path>
-    <text font-family='"Edu VIC WA NT Beginner", monospace' fill='#4dabf7' font-size='32'
+    <text font-family='"Helvetica", monospace' fill='#4dabf7' font-size='32'
         dominant-baseline='middle'
         x='50%' text-anchor='middle'>
         <textPath xlink:href='#path0'>
@@ -29,11 +29,11 @@
     </text>
         <path id='path1'>
                             <!-- Single line -->
-                                <animate id='d1' attributeName='d' begin='d0.end'
-                    dur='5000ms' fill='remove'
-                    values='m0,25 h0 ; m0,25 h800 ; m0,25 h800 ; m0,25 h0' keyTimes='0;0.8;0.8;1' />
-                    </path>
-    <text font-family='"Edu VIC WA NT Beginner", monospace' fill='#4dabf7' font-size='32'
+            <animate id='d1' attributeName='d' begin='d0.end'
+            dur='5000ms' fill='remove'
+            values='m0,25 h0 ; m0,25 h800 ; m0,25 h800 ; m0,25 h0' keyTimes='0;0.8;0.8;1' />
+        </path>
+    <text font-family='"Helvetica", monospace' fill='#4dabf7' font-size='32'
         dominant-baseline='middle'
         x='50%' text-anchor='middle'>
         <textPath xlink:href='#path1'>
