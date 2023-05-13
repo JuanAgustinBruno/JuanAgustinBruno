@@ -34,7 +34,7 @@
            <h2>Express</h2>
          
     </td>
-    <td align='center' width="190">
+    <td>
         <h2>GIT</h2>
         
     </td>
