@@ -24,8 +24,7 @@
 </tr>
 <tr>
     <td align='center' width="190">
-        <h2>NODE</h2>
-        
+        <h2>NODE</h2>    
     </td>
      <td align='center' width="190">
          <h2>MongoDB</h2>
