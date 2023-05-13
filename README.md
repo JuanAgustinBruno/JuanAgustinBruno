@@ -17,7 +17,7 @@
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
     </td>
      <td align='center' width="190">
-        <img src="https://www.brcline.com/wp-content/uploads/2016/01/bootstrap-logo.png" width="60">
+        <img src="https://w7.pngwing.com/pngs/628/224/png-transparent-bootstrap-plain-wordmark-logo-icon-thumbnail.png" width="60">
     </td>
 </tr>
 <tr>
