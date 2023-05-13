@@ -33,7 +33,7 @@
            <h2>Express</h2>
          
     </td>
-    <td align='center'>
+    <td align='center' width="190">
         <h2>GIT</h2>
         
     </td>
