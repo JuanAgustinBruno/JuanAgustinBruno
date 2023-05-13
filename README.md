@@ -10,7 +10,7 @@
         <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="60">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html.svg" width="60">
     </td>
     <td align='center' width="190">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
