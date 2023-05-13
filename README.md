@@ -7,36 +7,34 @@
 <table width="100">
 <tr>
     <td align='center' width="190">
-        <h2>CSS</h2>
-       
+        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
     </td>
     <td align='center' width="190">
-        <h2>HTML</h2>
-        
+        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="60">
     </td>
     <td align='center' width="190">
-        <h2>JavaSript</h2>
-        
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
     </td>
      <td align='center' width="190">
-    <h2>Bootstrap</h2>
-    
+        <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg">
     </td>
 </tr>
 <tr>
     <td align='center' width="190">
-        <h2>NODE</h2>    
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
     </td>
      <td align='center' width="190">
-         <h2>MongoDB</h2>
+         <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
     </td>
     <td align='center' width="190">
-         <h2>Express</h2>
-     </td>    
- 
-   
+         <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60">
+    </td>
 </tr>
 </table>
+
 <h2>Completed courses</h2>
 
 
