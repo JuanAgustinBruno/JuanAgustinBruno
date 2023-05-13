@@ -25,7 +25,7 @@
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/nodejs/nodejs.svg">
     </td>
      <td align='center' width="190">
-         <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+         <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.SVG">
     </td>
     <td align='center' width="190">
          <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
