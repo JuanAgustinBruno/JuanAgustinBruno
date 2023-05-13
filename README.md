@@ -31,10 +31,10 @@
          <h2>MongoDB</h2>
     </td>
     <td align='center' width="190">
-           <h2>Express</h2>
-         
-    </td>
-    <td>
+         <h2>Express</h2>
+     </td>    
+ 
+    <td align='center' width="190">
         <h2>GIT</h2>
         
     </td>
