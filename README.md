@@ -7,7 +7,7 @@
 <table width="100">
 <tr>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css.svg" width="60">
     </td>
     <td align='center' width="190">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html.svg" width="60">
