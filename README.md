@@ -7,6 +7,7 @@
 <table width="100">
 <tr>
     <td align='center' width="190">
+        <h2>CSS</h2>
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css.svg" width="60">
     </td>
     <td align='center' width="190">
