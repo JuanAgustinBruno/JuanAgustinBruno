@@ -2,10 +2,11 @@
 <img src="testsvg.svg">
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count 👽 </b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{JuanAgustinBruno}/count.svg" /></p> 
 <br>
 </div>
+
+
 <h2 align='center'><i>Languages and Tools</i></h2>
 
 <table width="100">
