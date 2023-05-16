@@ -12,7 +12,7 @@
 <table width="100">
 <tr>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
+        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.jpg">
     </td>
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="60">
