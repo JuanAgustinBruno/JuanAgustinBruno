@@ -1,6 +1,6 @@
 <h1>$\mathfrak{Web Development.}$</h1>
 
-<p>(github not loading images sourced outside their domain on my profile, pm if u know how to solve it)</p>
+
 <img src="testsvg.svg">
 
 <div align="center">
