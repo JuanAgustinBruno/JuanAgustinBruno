@@ -28,10 +28,10 @@
 </tr>
 <tr>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+        <img src="nodejs-ar21.svg">
     </td>
      <td align='center' width="190">
-         <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+         <img src="mongodb-ar21.svg">
     </td>
     <td align='center' width="190">
          <img src="express.svg">
