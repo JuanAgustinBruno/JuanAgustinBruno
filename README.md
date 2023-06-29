@@ -37,7 +37,7 @@
          <img src="express.svg">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60">
+        <img src="git.svg" width="60">
     </td>
 </tr>
 </table>
