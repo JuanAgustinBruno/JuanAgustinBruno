@@ -23,7 +23,7 @@
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
     </td>
      <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg">
+        <img src="bootstrap.svg">
     </td>
 </tr>
 <tr>
