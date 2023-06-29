@@ -14,7 +14,7 @@
 <table width="100">
 <tr>
     <td align='center' width="190">
-        <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/e1be48ad2dffe3e6e0e24fdefa9e740167fb2315/src/html/html.svg">
+        <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/e1be48ad2dffe3e6e0e24fdefa9e740167fb2315/src/html/html.svg" width="60" height="60">
     </td>
     <td align='center' width="190">
         <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/e1be48ad2dffe3e6e0e24fdefa9e740167fb2315/src/css/css.svg" width="60">
