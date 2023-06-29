@@ -34,7 +34,7 @@
          <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
     </td>
     <td align='center' width="190">
-         <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
+         <img src="express.svg">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60">
