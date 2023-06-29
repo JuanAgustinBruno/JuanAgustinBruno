@@ -17,7 +17,7 @@
         <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/e1be48ad2dffe3e6e0e24fdefa9e740167fb2315/src/html/html.svg">
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="60">
+        <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/e1be48ad2dffe3e6e0e24fdefa9e740167fb2315/src/css/css.svg" width="60">
     </td>
     <td align='center' width="190">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
