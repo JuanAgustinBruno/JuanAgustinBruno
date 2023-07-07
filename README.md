@@ -4,6 +4,7 @@
 <img src="testsvg.svg">
 
 <div align="center">
+<h2>Visitors</h2>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{JuanAgustinBruno}/count.svg" /></p> 
 <br>
 </div>
