@@ -3,11 +3,7 @@
 
 <img src="testsvg.svg">
 
-<div align="center">
-<h2>Visitor count:</h2>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{JuanAgustinBruno}/count.svg" /></p> 
-<br>
-</div>
+
 
 
 <h2 align='center'><i>Languages and Tools</i></h2>
@@ -62,6 +58,12 @@
 <h2>Looking forward to complete the next course to improve my skills: </h2>
 
 <ul>JavaScript Algorithms and Data Structures Masterclass. <a href="https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass">Take a look!</a></ul>
+
+<div align="center">
+<h2>Visitor count:</h2>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{JuanAgustinBruno}/count.svg" /></p> 
+<br>
+</div>
 
 
 
