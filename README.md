@@ -1,4 +1,4 @@
-<h1>$\mathfrak{Web Development.}$</h1>
+<h1>Web Development</h1>
 
 
 <img src="testsvg.svg">
